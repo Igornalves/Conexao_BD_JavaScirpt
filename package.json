@@ -1,0 +1,15 @@
+{
+  "name": "conectando-se-ao-banco-de-dado-com-javasscript",
+  "version": "1.0.0",
+  "description": "usando o node para see conectar no banco de dados",
+  "main": "Conexao.js",
+  "scripts": {
+    "start": "node Conexao.js",
+    "test": "mocha"
+  },
+  "author": "IgorAlves",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
