@@ -4,7 +4,7 @@
   "description": "usando o node para see conectar no banco de dados",
   "main": "conexao.js",
   "scripts": {
-    "dev": "node --watch conexao.js"
+    "dev": "node --watch --no-warnings src/conexao.js"
   },
   "author": "IgorAlves",
   "license": "ISC",
