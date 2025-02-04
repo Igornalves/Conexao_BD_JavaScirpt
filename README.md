@@ -1,6 +1,6 @@
-# Projeto de Conexao e Interacao com o banco de dados 
+# Database Connection and Interaction Project
 
-o intuito do repositorio e aprender como manipular e mexer de forma **Inicial e Avancada** com banco de dados usando a linguagem JavaScript de forma completa juntamente com node.js
+The purpose of the repository is to learn how to manipulate and work with databases in an **Initial and Advanced** way using the JavaScript language in its entirety along with node.js
 
 <div align="center" style="display: inline_block">
 
@@ -10,25 +10,25 @@ o intuito do repositorio e aprender como manipular e mexer de forma **Inicial e 
 </div>
 <br>
 
-nessa interacao irei criar um servido para o javaScript para que ele possa fazer requisicoes de forma completa.
+In this interaction I will create a server for JavaScript so that it can make requests for full form.
 
-## Um pouco sobre o Banco de dados 
+## A little about the Database
 
-bom eu escolhe dois bancos de dados para fazer essa conexao que sao os bancos: 
+Well, I chose two databases to make this connection, which are the following banks:
 
 <div align="center" style="display: inline_block">
-    <img align="center" alt="mysql" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   <img align="center" alt="PostgreSql" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
+<img align="center" alt="mysql" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="PostgreSql" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 <br>
 
-A escolha de usar ele foi pq, eles sao os mais usando quando se fala de banco de dados relacional que e bastante usando no mercado. 
+The choice to use it was because they are the most used when it comes to relational databases, which are widely used in the market.
 
-Alem disso foi uma boa para treina os conhecimento em linguagem SQL com esses bancos utilizando.
+It was also a good way to practice SQL language skills with these databases.
 
-<!-- ## Links Úteis
+<!-- ## Useful Links
 
-Aqui abixo estão os links de outros repositorios que tenho em meu GitHub que possa se interressa:
+Below are the links to other repositories that I have on my GitHub that may be of interest:
 
 - [Linguagem-C](https://github.com/Igornalves/Linguagem-C)
 - [Projeto_Site-WhatsappBot](https://github.com/Igornalves/Projeto_Site-WhatsappBot)
@@ -40,6 +40,4 @@ Aqui abixo estão os links de outros repositorios que tenho em meu GitHub que po
 
 ---
 
-**Obrigado por ler! Espero que eu tenha ajudado voçê em seus estudos ou sua pesquisa com meu repositório.**
-
-
+**Thanks for reading! I hope I have helped you in your studies or research with my repository.**
